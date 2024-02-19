@@ -1,0 +1,22 @@
+[
+    {"image":"https://atri-apps.github.io/restaurant_website/app-assets/616dcfaa447d37fed264e4ff_menu-breakfasts-restaurante-x-template.svg",
+    "title":"Breakfast",
+    "description":"Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam",
+    "button":"Explore menu"
+},
+{"image":"https://atri-apps.github.io/restaurant_website/app-assets/616dcfbb9e09be616e71d818_menu-main-dishes-restaurante-x-template.svg",
+    "title":"Main Dishes",
+    "description":"Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam",
+    "button":"Explore menu"
+},
+{"image":"https://atri-apps.github.io/restaurant_website/app-assets/616dcfb5dd3ca61a6dd0ae1c_menu-drinks-restaurante-x-template.svg",
+    "title":"Drinks",
+    "description":"Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam",
+    "button":"Explore menu"
+},
+{"image":"https://atri-apps.github.io/restaurant_website/app-assets/616dcfafe6321c66cb474f97_menu-desserts-restaurante-x-template.svg",
+    "title":"Desserts",
+    "description":"Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam",
+    "button":"Explore menu"
+}
+]

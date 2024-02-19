@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@400;500;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Comfortaa:wght@300&family=Poppins:wght@300&family=Titillium+Web&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Comfortaa:wght@300&family=Poppins:wght@300&family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@700&family=Poppins:wght@300&family=Roboto:wght@400;500;700&display=swap');
+
+.a{
+    /* background-color: aqua; */
+    margin-top:18px;
+    gap:450px;
+    /* margin-bottom: 10px; */
+    /* text-decoration: none; */
+    margin-left:135px;
+    display: flex;
+}
+.a a:hover{
+    /* margin-top: 1px; */
+    border-bottom:3px solid #f76c08;
+}
+.wah{
+    text-decoration: none;
+}
+li{
+    /* display: flex; */
+    /* float: left; */
+    display: inline;
+    /* margin-top: 28px; */
+    padding: 17px;
+    /* color:rgb(180, 174, 180); */
+    font-family: 'Poppins', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   font-size: large;
+   font-weight: 400;
+   color:dimgrey;
+}
+
+
+
+
+/* MODULE HERO */

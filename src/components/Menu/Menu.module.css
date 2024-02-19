@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@400;500;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Comfortaa:wght@300&family=Poppins:wght@300&family=Titillium+Web&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Comfortaa:wght@300&family=Poppins:wght@300&family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@700&family=Poppins:wght@300&family=Roboto:wght@400;500;700&display=swap');
+
+.bur{
+    position: absolute;
+    display: flex;
+}
+.star{
+    background-color: yellowgreen;
+    padding: 10px 8px;
+    border-radius: 15px;
+    top:13px;
+    font-weight: 600;
+    right:10px;
+    position: absolute;
+}
+input[type="text"] {
+    padding: 8px;
+    margin-bottom: 10px;
+    margin-left: 900px;
+    width: 20%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+.text{
+    /* text-align: center; */
+    letter-spacing: 1px;
+    font-family: 'Mukta', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 100;
+    max-width: 100%;
+    margin-top: 10px;
+    padding-top: 240px;
+}
+#Menu{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 20px;
+    /* gap: 20px; Adjust the gap between items as needed */
+}
+.ni{
+    text-align: center;
+    font-size: 26px;
+    margin-top: 70px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.text h2{
+    margin-top: 15px;
+}
+.bt4{
+    border: none;
+    font-size: medium;
+    /* margin-left: 147px; */
+    border-radius: 70px;
+    padding:14px 27px 14px 27px;
+    margin-right: 90px;
+    color: white;
+    background-color: #f76c08;
+    /* padding-right: 20px; */
+    margin-top: 10px;
+    /* padding-left: 120px; */
+}
+.qdisplay{
+    margin: 2px;
+}
+.btn3{
+    border-radius:70px;
+    font-size: medium;
+    border-radius:70px;
+    padding: 4px;
+    /* border: none; */
+    border:1.5px solid rgb(216, 213, 213);
+    /* border-color: azure; */
+    /* border-color: gainsboro; */
+    background-color: white;
+}
+.abc{
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin: 3px;
+    /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  /* padding-left: 20px; */
+  padding: 40px;
+}
+.nikhi{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates 4 columns with equal width */
+    gap: 10px; /* Adjust the gap between items as needed */
+    padding: 90px; 
+}
+.omgg{
+    /* border-collapse: separate; */
+    border-radius: 30px;
+}
+.emo{
+    letter-spacing: normal;
+    color: dimgray;
+}
+.burg{
+    /* margin-left: 26px; */
+    margin-top: 5px;
+}
